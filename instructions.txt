@@ -1,0 +1,47 @@
+                    INSTRUCTIONS
+
+
+
+TO RUN THE GAME
+
+ 1. Load the java file
+
+ 2. Compile it
+
+ 3. Run it (its an applet)
+
+
+
+
+TO PLAY THE GAME
+
+ 1. Press the dice to roll (top right)
+
+ 2. The result will be shown in the bottom right
+
+ 3. Click the mouse on the counter to pick it up
+
+ 4. Drag the counter the correct number of squares
+
+ 5. Let the mouse go in the correct location
+
+ 6. If location correct, counter will move
+
+ 7. If location incorrcet, counter will not move
+
+ 8. Once counter is in correct location roll dice
+
+ 9. Next player will move
+
+ 10. Allow all other players to move
+
+ 11. To win - Get counter into middle first
+
+ 12. Board layout - Go around outside of cross then into the middle.
+
+ 13. If you land on another players counter it will go back to the start.
+
+ 14. If another player lands on your counter you will go back to the start.
+
+
+		HOPE YOU ENJOY THE GAME!
